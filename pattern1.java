@@ -7,7 +7,10 @@ for(int i=1;i<=n;i++)
 {
 foor (int j=n;;j>=i;j--)
 {
-System.out.print("*");
 }
 System.out.println();
 }}}
+
+
+
+Hii hello
